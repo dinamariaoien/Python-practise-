@@ -252,7 +252,7 @@ print("Total to pay:", round(total, 2), "kr")
 
 
 # Ekstraoppgaver
-print(total_price)
+
 
 
 
