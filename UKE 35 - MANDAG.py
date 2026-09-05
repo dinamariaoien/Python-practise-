@@ -31,7 +31,7 @@ print(difference)
 multiplication = firstnumber * secondnumber
 print(multiplication)
 
-
+print(firstnumber * secondnumber)
 
 
 
