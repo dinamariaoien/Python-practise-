@@ -148,7 +148,7 @@ else:
 print("Your price is: ", price, "kr")
 
 
-# LOOPS
+# LEVEL 3
 # Task 11
 for number in range(1, 21):
     print(number)
