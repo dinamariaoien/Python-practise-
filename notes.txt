@@ -1,0 +1,3 @@
+Jeg lærer Python
+Jeg lærer file handling
+Dette er uke 38
